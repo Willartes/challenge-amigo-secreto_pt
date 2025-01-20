@@ -78,7 +78,7 @@ Contribuições são sempre bem-vindas! Se você encontrar algum bug ou tiver su
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [Click aqui](https://amigosecreto-nqpr5h104-willartes-projects.vercel.app/) para mais detalhes.
+Este projeto está sob a licença da plataforma Alura. Veja o arquivo [Click aqui](https://amigosecreto-nqpr5h104-willartes-projects.vercel.app/) para mais detalhes.
 
 ## Agradecimentos
 

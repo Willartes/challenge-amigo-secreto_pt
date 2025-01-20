@@ -31,12 +31,12 @@ Este projeto foi desenvolvido como parte do programa ONE - Oracle Next Education
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sorteador-de-amigo.git
+git clone https://github.com/Willartes/challenge-amigo-secreto_pt.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd sorteador-de-amigo
+cd challenge-amigo-secreto_pt
 ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido
@@ -78,7 +78,7 @@ Contribuições são sempre bem-vindas! Se você encontrar algum bug ou tiver su
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [Click aqui](https://amigosecreto-nqpr5h104-willartes-projects.vercel.app/) para mais detalhes.
 
 ## Agradecimentos
 

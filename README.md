@@ -1,4 +1,4 @@
-# Sorteador de Amigo
+# Praticando Logica de programação: Challenge amigo secreto
 
 ## Descrição do Projeto
 
